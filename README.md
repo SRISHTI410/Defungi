@@ -1,1 +1,3 @@
 # Defungi
+Traditionally, diagnosis and treatment of fungal infections in humans dependent heavily on face-to-face consultations or examinations made by specialized laboratory scientists. With the help of deep learning CN models and machine learning techniques, we are implementing a model which helps to classify the microscopic images of 5 fungal classes.
+Skills: Machine Learning. Deep Learning. Computer Vision. Programming. Data Preprocessing -Model Evaluation and Optimization. Medical Domain Knowledge. Data Management. Collaboration and Communication. Deployment and Integration. Continuous Learning
